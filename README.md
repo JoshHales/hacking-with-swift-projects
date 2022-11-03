@@ -14,3 +14,7 @@
 ### TempConvert
 
 * A temperature conversion app. Enter an input unit & an output unit (Celsius, Fahrenheit or Kelvin) along with an input temperature value. The app will then calculate the converted output temperature value.
+
+### GuessTheFlag
+
+* A game in which the user is shown the name of a country along with three different flags. The aim is to match the country with the correct flag. Once 10 questions have been answered, the round ends and the user is shown their score out of 10, a new round can then be started.
