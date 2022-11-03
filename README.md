@@ -13,4 +13,4 @@
 
 ### TempConvert
 
-* An temperature conversion app. Enter an input unit & an output unit (Celsius, Fahrenheit or Kelvin) along with an input temperature value. The app will then calculate the converted output temperature value.
+* A temperature conversion app. Enter an input unit & an output unit (Celsius, Fahrenheit or Kelvin) along with an input temperature value. The app will then calculate the converted output temperature value.
