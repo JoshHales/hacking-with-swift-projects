@@ -1,11 +1,11 @@
 # Hacking with swift projects
-<br>
+
 ### This repo contains my project files from undertaking the hacking with swift course by Paul Hudson.
 
 ### Link to the course: [https://www.hackingwithswift.com/100/swiftui](https://www.hackingwithswift.com/100/swiftui)
 
 
-##The Projects
+## The Projects
 
 ### WeSplit
 
