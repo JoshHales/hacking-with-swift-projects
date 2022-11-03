@@ -22,3 +22,12 @@
 ### RockPaperScissors
 
 * A Rock Paper Scissors game with a twist. Each turn of the game the app will pick either Rock Paper or Scissors, along with prompting the player to win or to lose. The player must then tap the correct move to either win or lose the game. A correct answer adds 1 to the players score and an incorrect answer subtracts 1 from the score. The game ends after 10 questions at which point the players score is displayed.
+
+### BetterRest
+
+* An app to to help coffee drinkers get enough sleep. The app asks the user three questions:
+	* When do you want to wake up?
+	* Desired amount of sleep
+	* Daily coffee intake
+	
+	Upon clicking the calculate button, the app feeds these values into a  ML algorithm and displays the users ideal bedtime.
