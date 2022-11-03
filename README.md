@@ -18,3 +18,7 @@
 ### GuessTheFlag
 
 * A game in which the user is shown the name of a country along with three different flags. The aim is to match the country with the correct flag. Once 10 questions have been answered, the round ends and the user is shown their score out of 10, a new round can then be started.
+
+### RockPaperScissors
+
+* A Rock Paper Scissors game with a twist. Each turn of the game the app will pick either Rock Paper or Scissors, along with prompting the player to win or to lose. The player must then tap the correct move to either win or lose the game. A correct answer adds 1 to the players score and an incorrect answer subtracts 1 from the score. The game ends after 10 questions at which point the players score is displayed.
